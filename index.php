@@ -180,7 +180,7 @@
             z-index: 20;
         }
 
-        /* Wrapper'ı butonlar arası boşluk için kullanıyoruz */
+        /* Wrapper'ı butonlar arası boşluk için kullanıyoruz! */
         .category-btn-wrapper {
             position: relative;
             margin-bottom: 0.35rem; /* Ana butonların arası */
