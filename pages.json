@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Hakkımızda",
+        "slug": "hakkimizda",
+        "content": "<p>lhhu<\/p>",
+        "showInMenu": true,
+        "id": 2
+    },
+    {
+        "title": "İletişim Sayfası",
+        "slug": "iletisim",
+        "content": "<section id=\"iletisim\" class=\"py-20 px-6 bg-indigo-600\">\n<div class=\"max-w-4xl mx-auto bg-indigo-500 p-10 rounded-2xl shadow-lg\" data-aos=\"fade-up\">\n<h2 class=\"text-3xl font-bold mb-4 text-yellow-300\">İletişim <img src=\"..\/Resimler\/as-by-yatay.png\" width=\"400PX\" height=\"90\" align=\"right\"><\/h2>\n<h2 class=\"text-3xl font-bold mb-4 text-white\">Yağmur Bilgisayar<\/h2>\n<h2 class=\"text-2xl font-bold mb-4 text-white\">* Akınsoft Adana Resmi Yetkilisi<\/h2>\n<p class=\"mb-2 text-white\">Adres: S&uuml;mer Mah. Karafatma Cad. No:124\/A Seyhan \/ ADANA<\/p>\n<p class=\"mb-2 text-white\">GSM: 0 505 455 29 46 \/ Tel: 0 322 226 36 14<\/p>\n<p class=\"mb-6 text-white\">Email: <a class=\"underline hover:text-yellow-300\" href=\"mailto:yagmurbilgisayaradana@hotmail.com\">yagmurbilgisayaradana@hotmail.com<\/a><\/p>\n<div class=\"flex justify-center space-x-6 mb-6\">&nbsp;<\/div>\n<div><iframe style=\"border: 0;\" src=\"https:\/\/maps.google.com\/maps?q=S&uuml;mer%20Mah.%20Karafatma%20Cad.%20No:124%2FA%20Seyhan%2FAdana&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=&amp;output=embed\" width=\"100%\" height=\"300\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"><\/iframe><\/div>\n<div class=\"mt-6 text-center\"><a class=\"inline-block bg-green-500 hover:bg-green-600 text-white font-semibold px-6 py-3 rounded-full btn-raised transition\" href=\"https:\/\/g.page\/r\/Cet0Aav2frcWEAE\/review\" target=\"_blank\" rel=\"noopener\"> Google'da Bizi Değerlendirin <\/a>a<\/div>\n<\/div>\n<\/section>",
+        "showInMenu": true,
+        "address": "",
+        "phone": "",
+        "contactEmail": "",
+        "mapUrl": "",
+        "id": 3
+    }
+]

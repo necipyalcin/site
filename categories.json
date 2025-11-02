@@ -1,0 +1,312 @@
+[
+    {
+        "id": 1,
+        "name": "Kişisel Bilgisayarlar",
+        "parentId": null
+    },
+    {
+        "id": 2,
+        "name": "Bilgisayar Bileşenleri",
+        "parentId": null
+    },
+    {
+        "id": 3,
+        "name": "Baskı Ürünleri",
+        "parentId": null
+    },
+    {
+        "id": 4,
+        "name": "Yazılım",
+        "parentId": null
+    },
+    {
+        "id": 5,
+        "name": "Çevre Birimleri",
+        "parentId": null
+    },
+    {
+        "id": 6,
+        "name": "Barkod Ürünleri (OT-VT)",
+        "parentId": null
+    },
+    {
+        "id": 8,
+        "name": "Masaüstü Bilgisayar",
+        "parentId": 1
+    },
+    {
+        "id": 9,
+        "name": "Taşınabilir Bilgisayar",
+        "parentId": 1
+    },
+    {
+        "id": 10,
+        "name": "İşlemciler",
+        "parentId": 2
+    },
+    {
+        "id": 11,
+        "name": "Anakartlar",
+        "parentId": 2
+    },
+    {
+        "id": 12,
+        "name": "Yazıcılar",
+        "parentId": 3
+    },
+    {
+        "id": 13,
+        "name": "Akınsoft",
+        "parentId": 4
+    },
+    {
+        "id": 14,
+        "name": "Klavye ve Setler",
+        "parentId": 2
+    },
+    {
+        "id": 15,
+        "name": "Barkod Okuyucular",
+        "parentId": 6
+    },
+    {
+        "id": 16,
+        "name": "Tabletler",
+        "parentId": 1
+    },
+    {
+        "id": 17,
+        "name": "Bellekler",
+        "parentId": 2
+    },
+    {
+        "id": 18,
+        "name": "Harddiskler",
+        "parentId": 2
+    },
+    {
+        "id": 19,
+        "name": "Ekran Kartı",
+        "parentId": 2
+    },
+    {
+        "id": 20,
+        "name": "Kasalar",
+        "parentId": 2
+    },
+    {
+        "id": 21,
+        "name": "Mouse",
+        "parentId": 2
+    },
+    {
+        "id": 22,
+        "name": "Monitörler",
+        "parentId": 2
+    },
+    {
+        "id": 23,
+        "name": "Optik Sürücüler",
+        "parentId": 2
+    },
+    {
+        "id": 24,
+        "name": "TV-Ses Kartı",
+        "parentId": 2
+    },
+    {
+        "id": 25,
+        "name": "Barkod Yazıcılar",
+        "parentId": 6
+    },
+    {
+        "id": 26,
+        "name": "El Terminalleri",
+        "parentId": 6
+    },
+    {
+        "id": 27,
+        "name": "Teraziler",
+        "parentId": 6
+    },
+    {
+        "id": 28,
+        "name": "Endüstriyel Panel ve POS PC",
+        "parentId": 6
+    },
+    {
+        "id": 30,
+        "name": "PDKS Sistemleri",
+        "parentId": 6
+    },
+    {
+        "id": 31,
+        "name": "Yazar Kasa",
+        "parentId": 6
+    },
+    {
+        "id": 32,
+        "name": "Kart Yazıcılar",
+        "parentId": 6
+    },
+    {
+        "id": 33,
+        "name": "Tarayıcı",
+        "parentId": 3
+    },
+    {
+        "id": 34,
+        "name": "Yazıcı Tüketim",
+        "parentId": 3
+    },
+    {
+        "id": 35,
+        "name": "ADSL-Internet Ürünleri",
+        "parentId": 5
+    },
+    {
+        "id": 36,
+        "name": "Taşınabilir Harddisk",
+        "parentId": 5
+    },
+    {
+        "id": 37,
+        "name": "USB Bağlantılı Ürünler",
+        "parentId": 5
+    },
+    {
+        "id": 38,
+        "name": "Webcam",
+        "parentId": 5
+    },
+    {
+        "id": 39,
+        "name": "Hoparlör",
+        "parentId": 5
+    },
+    {
+        "id": 40,
+        "name": "Oyun Kolları",
+        "parentId": 5
+    },
+    {
+        "id": 41,
+        "name": "Taşınabilir Bellek",
+        "parentId": 5
+    },
+    {
+        "id": 42,
+        "name": "Grafik Tabletler",
+        "parentId": 5
+    },
+    {
+        "id": 43,
+        "name": "Kulaklık-Mikrofon",
+        "parentId": 5
+    },
+    {
+        "id": 44,
+        "name": "Network ve Kurumsal Ürünler",
+        "parentId": null
+    },
+    {
+        "id": 45,
+        "name": "Switch",
+        "parentId": 44
+    },
+    {
+        "id": 46,
+        "name": "Router-Access Point",
+        "parentId": 44
+    },
+    {
+        "id": 47,
+        "name": "Sunucular",
+        "parentId": 44
+    },
+    {
+        "id": 48,
+        "name": "Network Ürünleri",
+        "parentId": 44
+    },
+    {
+        "id": 49,
+        "name": "Firewall",
+        "parentId": 44
+    },
+    {
+        "id": 50,
+        "name": "Kabinet Ürünleri",
+        "parentId": 44
+    },
+    {
+        "id": 51,
+        "name": "IP Telefon",
+        "parentId": 44
+    },
+    {
+        "id": 52,
+        "name": "Fiber Optik",
+        "parentId": 44
+    },
+    {
+        "id": 53,
+        "name": "Yedekleme Ünitesi",
+        "parentId": 44
+    },
+    {
+        "id": 54,
+        "name": "Taşınabilir Bileşen-Aksesuar",
+        "parentId": null
+    },
+    {
+        "id": 55,
+        "name": "Notebook Soğutucu-Stand",
+        "parentId": 54
+    },
+    {
+        "id": 56,
+        "name": "Notebook Çanta-Kılıf",
+        "parentId": 54
+    },
+    {
+        "id": 57,
+        "name": "Tablet Aksesuarları",
+        "parentId": 54
+    },
+    {
+        "id": 58,
+        "name": "Notebook Adaptör",
+        "parentId": 54
+    },
+    {
+        "id": 59,
+        "name": "Notebook Aksesuar",
+        "parentId": 54
+    },
+    {
+        "id": 60,
+        "name": "Tüketim-Sarf-Aksesuar",
+        "parentId": null
+    },
+    {
+        "id": 61,
+        "name": "PC-PCMCIA Kartlar",
+        "parentId": 60
+    },
+    {
+        "id": 62,
+        "name": "Tüketim-Sarf-Aksesuar",
+        "parentId": 60
+    },
+    {
+        "id": 63,
+        "name": "Oyuncu Koltuğu",
+        "parentId": 60
+    },
+    {
+        "id": 64,
+        "name": "Seyahat Ürünleri",
+        "parentId": 60
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "productId": 1,
+        "name": "ZEBEX 3100 CCD USB El Tipi Kablolu 1D Barkod Okuyucu",
+        "image": "https:\/\/api.gunes.net\/Content\/UrunResimleri\/1887_3100_2.jpg",
+        "link": "urun.php?id=1",
+        "custom": false,
+        "id": 1
+    },
+    {
+        "productId": 2,
+        "name": "SUNLUX XL5500 CCD El Tipi Kablolu 1D Barkod Okuyucu",
+        "image": "https:\/\/api.gunes.net\/Content\/UrunResimleri\/26665__1.jpg",
+        "link": "urun.php?id=2",
+        "custom": false,
+        "id": 2
+    },
+    {
+        "productId": 3,
+        "name": "PERKON Tiger RS51 CCD Standlı El Tipi Kablosuz 1D Barkod okoyucu",
+        "image": "https:\/\/api.gunes.net\/Content\/UrunResimleri\/156470b8-f26d-4364-b23f-ce64e2297e71.jpg",
+        "link": "urun.php?id=3",
+        "custom": false,
+        "id": 3
+    },
+    {
+        "productId": 4,
+        "name": "PERKON Tiger CS611-BT CCD USB El Tipi Kablosuz 1D Barkod okoyucu",
+        "image": "https:\/\/api.gunes.net\/Content\/UrunResimleri\/afae6dc0-ad78-4332-85f3-752a2e74bddc.jpg",
+        "link": "urun.php?id=4",
+        "custom": false,
+        "id": 4
+    },
+    {
+        "productId": 10,
+        "name": "PERKON PS30 Lazer 1D Kablolu Ayaklı Barkod Okuyucu",
+        "image": "https:\/\/api.gunes.net\/Content\/UrunResimleri\/19589_TİGER_1.jpg",
+        "link": "urun.php?id=10",
+        "custom": false,
+        "id": 5
+    },
+    {
+        "productId": 9,
+        "name": "PERKON CS95 Lazer 1D Kablosuz Standlı Barkod Okuyucu",
+        "image": "https:\/\/api.gunes.net\/Content\/UrunResimleri\/19588__1.jpg",
+        "link": "urun.php?id=9",
+        "custom": false,
+        "id": 6
+    },
+    {
+        "productId": 1482,
+        "name": "CALLER ID C812 SİPARİŞ SİSTEMİ TELEFON HATTI VE BİLGİSAYAR İÇİN TANIMLAYICI SİSTEM",
+        "image": "https:\/\/akinsoftadana.com.tr\/Resimler\/CALLER ID C812.jpg",
+        "link": "urun.php?id=1482",
+        "custom": false,
+        "id": 7
+    },
+    {
+        "productId": 971,
+        "name": "I-LIFE ZedAir CX7 i7-7Y75 8GB 256GB SSD O\/B Intel HD 615 15.6\" W10 Siyah Notebook",
+        "image": "https:\/\/api.gunes.net\/Content\/UrunResimleri\/27535_ZedAir CX7_1.jpg",
+        "link": "urun.php?id=971",
+        "custom": false,
+        "id": 8
+    },
+    {
+        "productId": 5,
+        "name": "SUNLUX XL9310 Lazer 1D Kablosuz Standlı Barkod Okuyucu",
+        "image": "https:\/\/api.gunes.net\/Content\/UrunResimleri\/15495__1.jpg",
+        "link": "urun.php?id=5",
+        "custom": false,
+        "id": 9
+    },
+    {
+        "productId": 98,
+        "name": "EPSON ECOTANK L3250 Renkli Deskjet AIO A4 Fotokopi Tarayıcı Wİ-Fİ (Tanklı) Yazıcı",
+        "image": "https:\/\/api.gunes.net\/Content\/UrunResimleri\/29678_ECOTANK_1.JPG",
+        "link": "urun.php?id=98",
+        "custom": false,
+        "id": 10
+    },
+    {
+        "productId": 100,
+        "name": "BROTHER HL-1111-3T Mono Lazer A4 Mono Usb Yazıcı 3 Tam dolu toner",
+        "image": "https:\/\/api.gunes.net\/Content\/UrunResimleri\/24409_HL-1111-3T_1.jpg",
+        "link": "urun.php?id=100",
+        "custom": false,
+        "id": 11
+    }
+]

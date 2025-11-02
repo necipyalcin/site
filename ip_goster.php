@@ -1,0 +1,1 @@
+<?php echo 'Sunucumun Dış IP Adresi: ' . file_get_contents('https://api.ipify.org'); ?>

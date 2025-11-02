@@ -1,0 +1,12 @@
+{
+    "adminUser": "admin",
+    "adminPassHash": "$2y$10$MPSxrBgVGoH6c3eKgkQjxON6cPm6ccGEP7I6hGKQ0U6jXAvo6nGI2",
+    "companyInfo": {
+        "title": "Yağmur Bilgisayar",
+        "contact": "Yetkili Adı Soyadı",
+        "email": "yagmurbilgisayaradana@hotmail.com",
+        "address": "SÜMER MAH KARAFATMA CAD NO 124\/A SEYHAN ADANA"
+    },
+    "autoRate": 41.9453,
+    "lastAutoUpdate": "2025-10-28T23:10:45+01:00"
+}

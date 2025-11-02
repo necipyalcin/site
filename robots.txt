@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akinsoftadana.com.tr/sitemap.xml
